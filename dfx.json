@@ -1,0 +1,14 @@
+{
+  "canisters": {
+    "demo": {
+      "type": "motoko",
+      "main": "./src/entry.mo"
+    }
+  },
+  "dfx": "0.21.0",
+  "defaults": {
+    "build": {
+      "packtool": "mops sources"
+    }
+  }
+}
